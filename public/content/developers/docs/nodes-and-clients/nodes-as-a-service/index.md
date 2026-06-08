@@ -184,6 +184,18 @@ Here is a list of some of the most popular Ethereum node providers, feel free to
     - [Pricing calculator](https://drpc.org/pricing#calculator)
   - NodeCore: open-source stack for organizations wanting full control
 
+- [**Fastnode.io**](https://fastnode.io)
+  - Features
+    - Access to 50+ blockchain nodes
+    - Dedicated RPC infrastructure
+    - Archive node access for historical blockchain queries
+    - HTTPS and WebSocket (WSS) endpoints
+    - Enterprise-grade custom SLA
+    - Low-latency global routing and load balancing
+    - Real-time monitoring and analytics
+    - Flexible scaling for startups and enterprise applications
+    - Technical support and custom infrastructure solutions
+
 - [**GetBlock**](https://getblock.io/)
   - [Docs](https://getblock.io/docs/get-started/authentication-with-api-key/)
   - Features
